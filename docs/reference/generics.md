@@ -125,7 +125,7 @@ enforcing constraints, with types treated as first-class citizens within the fun
 **Example**:
 
 ```osta
-struct ConstrainedArray<T: type, S: usize, Min: usize, Max: usize> {;
+struct ConstrainedArray<T: type, S: usize, Min: usize, Max: usize> {
     data: [T; S],
     size: usize,
 }
