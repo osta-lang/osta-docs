@@ -1,0 +1,26 @@
+johan:
+  name: Johan Von Electrum
+  title: Founder of Osta-Lang
+  image_url: https://github.com/JohanVonElectrum.png
+  page: true
+  socials:
+    x: johan_v_e
+    github: JohanVonElectrum
+
+artik:
+  name: ArtikGz
+  title: Early Contributor
+  image_url: https://github.com/ArtikGz.png
+  page: true
+  socials:
+    x: ArtikGz
+    github: ArtikGz
+
+cdecompilador:
+  name: cdecompilador
+  title: Contributor
+  image_url: https://github.com/cdecompilador.png
+  page: true
+  socials:
+    x: cdecompilador
+    github: cdecompilador
